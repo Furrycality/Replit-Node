@@ -11,6 +11,7 @@ Installation
 "replit-node": "npm run node-update && npm run node-clean"
 ```
 - It looks like this:
+
 ![Image xD](https://raw.githubusercontent.com/Furrycality/Replit-Node/main/1.png)
 
 2. On shell execute ``npm run replit-node``
