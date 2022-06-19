@@ -10,6 +10,9 @@ Installation
 "node-clean": "rm -rf node_modules && rm package-lock.json && npm cache clear --force && npm cache clean --force && npm i",
 "replit-node": "npm run node-update && npm run node-clean"
 ```
+- It looks like this:
+![Image xD](https://raw.githubusercontent.com/Furrycality/Replit-Node/main/1.png)
+
 2. On shell execute ``npm run replit-node``
 3. Success now you have Node v17 on ur Replit, you only need to do this one time
 
